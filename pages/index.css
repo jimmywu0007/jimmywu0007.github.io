@@ -1,0 +1,8 @@
+table,
+td {
+    border: 2px solid green;
+}
+
+tbody {
+    border: 3px black
+}
